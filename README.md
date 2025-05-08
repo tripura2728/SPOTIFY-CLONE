@@ -1,7 +1,7 @@
 # SPOTIFY-CLONE
 A responsive Spotify clone built with HTML, CSS, to practice and showcase front-end development skills.
 
-# Spotify Clone 
+# practice Spotify Clone 
 
 A static front-end clone of the Spotify web player built using only HTML and CSS. Created as a personal project to practice layout design, responsiveness, and CSS styling.
 
